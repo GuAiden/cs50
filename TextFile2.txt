@@ -5,3 +5,6 @@ git commit -m "message"
 git status
 git push
 (if someone else working on your repository, use git pull) GIT PULL!
+git log
+git reset --hard <commit hash>
+git reset --hard origin/master
